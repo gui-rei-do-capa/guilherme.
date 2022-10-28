@@ -1,8 +1,4 @@
-p {
-    color: rgb(83, 57, 0);
-    text-align: center;
-    font: size 50px;;
-    }
+
     body{
         background-color:rgb(9, 255, 0)
         }
@@ -13,6 +9,12 @@ p {
             font-size: 30px;
             }
 
+
+            p {
+                color: rgb(83, 57, 0);
+                text-align: center;
+                font: size 50px;;
+                }
             #capibara {
                 width: 70%;
             }
